@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>https://github.com/agha51hasan/aghahairdresser.netlify.app/tree/main
+<head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Agha Hairdresser</title>
