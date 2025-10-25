@@ -21,7 +21,8 @@
       color:#222;
     }
     *{box-sizing:border-box}
-    body{
+    body{ 
+      <img src="IMG_0748.jpeg" alt="Agha Hairdresser salon" class="hero-photo">
       margin:0;
       background:linear-gradient(180deg, #fff 0%, #fffefc 100%);
       -webkit-font-smoothing:antialiased;
